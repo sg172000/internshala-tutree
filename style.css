@@ -1,0 +1,67 @@
+h1{
+  margin: 2rem 0 2rem 5rem;
+  color: white;
+}
+h3,h5{
+  color: #16697a;
+}
+body{
+  background-color: #eeeeee;
+}
+.container-fluid
+{
+  padding:0;
+}
+.logo
+{
+  height: 50px;
+ width: 7rem;
+
+}
+.search
+{
+  padding-bottom: 20px;
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-top: 10px;
+  background-color: #16697a;
+}
+.search-field
+{
+  margin-left: 5rem;
+}
+.jumbotron{
+  margin:auto;
+  padding:2rem 2rem;
+  background-color: #fff;
+  width: 17rem;
+  height: 60rem;
+}
+.details
+{
+
+  margin-top:2rem;
+  background-color:#eeeeee;
+  height: 50rem;
+}
+.Engineer{
+  padding:2rem 2rem;
+  background-color: #fff;
+  height: 12rem;
+}
+.Engineer1{
+    margin-top:2rem;
+    padding:2rem 2rem;
+    background-color: #fff;
+    height: 12rem;
+}
+.center
+{
+  margin-left:7rem;
+}
+#mybutton{
+   position: fixed;
+   margin-top: 19rem;
+   right: -2rem;
+  transform: rotate(-90deg);
+}
